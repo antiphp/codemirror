@@ -1,1 +1,3 @@
-.idea
+/.idea
+/logs/*.log
+/src/public/vendor
