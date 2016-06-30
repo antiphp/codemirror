@@ -1,0 +1,22 @@
+{
+  "name": "antiphp/codemirror",
+  "homepage": "https://github.com/antiphp/codemirror",
+  "authors": [
+    "Christian Reinecke <christian.reinecke@web.de>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "require": {
+      "CodeMirror": "5.*"
+  }
+}
